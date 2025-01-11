@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Subhashis Pradhan, a full-time full-stack Software Engineer 👨‍💻 working at Synopsys Inc 🚀</div>  
+### <div align="center">I'm Subhashis Pradhan, a full-time full-stack Software Engineer 👨‍💻 working at Black Duck Software, Inc 🚀</div>  
   
 
 - 🌱 I’m currently learning Docker and Kubernetes  
